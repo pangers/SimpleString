@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SimpleString'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.swift_version	 = '4.0'
   s.summary          = 'Simply styling strings' 
   s.homepage         = 'https://github.com/pangers/SimpleString'
